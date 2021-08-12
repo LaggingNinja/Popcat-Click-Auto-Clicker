@@ -22,4 +22,4 @@ setInterval(function(){
 > Interval 100 because will not detected as bot. 
 > (If cat's eyes turn red means detected as bot and points will not be counted) 
 ### What happens if you put interval as 0 :
-![Untitled](https://user-images.githubusercontent.com/66457844/129150335-6b8522a6-17b4-45ff-bf58-20139883260d.png)
+![Untitled](https://user-images.githubusercontent.com/66457844/129151245-231af8fa-aa24-4f40-a52f-c130aa77b71c.png)
