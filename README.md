@@ -38,3 +38,8 @@ setInterval(function(){
 }, 100); 
 ```
 > This code will click only once per 100 milliseconds. 
+
+## A simpler code that also works:
+```
+setInterval(()=>{document.dispatchEvent(new Event("keydown"))},40)
+```
